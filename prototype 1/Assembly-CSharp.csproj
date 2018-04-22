@@ -47,8 +47,9 @@
   <ItemGroup>
      <Compile Include="Assets\animations\Mixamo\Melee Axe Pack\Demo\CameraScroll.cs" />
      <Compile Include="Assets\cameraFollow.cs" />
-     <Compile Include="Assets\caracter\script\equipe_weapon.cs" />
-     <Compile Include="Assets\caracter\script\move.cs" />
+     <Compile Include="Assets\script\equipe_weapon.cs" />
+     <Compile Include="Assets\script\move.cs" />
+     <Compile Include="Assets\script\playerStats.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
