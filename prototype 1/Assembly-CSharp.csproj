@@ -46,7 +46,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\animations\Mixamo\Melee Axe Pack\Demo\CameraScroll.cs" />
-     <Compile Include="Assets\cameraFollow.cs" />
+     <Compile Include="Assets\script\AI.cs" />
+     <Compile Include="Assets\script\attack101.cs" />
+     <Compile Include="Assets\script\cameraFollow.cs" />
      <Compile Include="Assets\script\equipe_weapon.cs" />
      <Compile Include="Assets\script\move.cs" />
      <Compile Include="Assets\script\playerStats.cs" />

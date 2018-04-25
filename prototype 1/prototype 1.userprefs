@@ -1,10 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\cameraFollow.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\AI.cs">
     <Files>
-      <File FileName="Assets\caracter\script\move.cs" Line="21" Column="25" />
-      <File FileName="Assets\cameraFollow.cs" Line="22" Column="1" />
-      <File FileName="Assets\caracter\script\equipe_weapon.cs" Line="14" Column="39" />
+      <File FileName="Assets\script\move.cs" Line="18" Column="9" />
+      <File FileName="Assets\script\attack101.cs" Line="9" Column="21" />
+      <File FileName="Assets\script\AI.cs" Line="12" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
